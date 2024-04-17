@@ -1,0 +1,31 @@
+{
+  "name": "@inclusion-numerique/n8n",
+  "version": "1.0.0",
+  "description": "N8n instance pour le programme inclusion numérique",
+  "author": "Hugues Maignol <hugues.maignol@beta.gouv.fr>",
+  "license": "ISC",
+  "engines": {
+    "node": "18",
+    "npm": "9"
+  },
+  "scripts": {
+    "start": "n8n start",
+    "build": "env && echo 'All good, no build required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inclusion-Numerique/n8n.git"
+  },
+  "keywords": [
+    "inclusion-numerique",
+    "n8n"
+  ],
+  "bugs": {
+    "url": "https://github.com/Inclusion-Numerique/n8n/issues"
+  },
+  "homepage": "https://github.com/Inclusion-Numerique/n8n#readme",
+  "dependencies": {
+    "localtunnel": "^2.0.2",
+    "n8n": "^1.4.1"
+  }
+}
