@@ -1,4 +1,3 @@
-![Metabase](assets/logo.png)
 
 # Deploy N8N on Scalingo
 
