@@ -6,7 +6,7 @@
 
 Run your own N8N instance with one click.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/axlpriv/n8n-scalingo/tree/master)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/axlpriv/n8n-update/tree/main)
 
 ## Steps to deploy N8N manually
 
