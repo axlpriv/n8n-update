@@ -6,10 +6,10 @@
   "license": "ISC",
   "engines": {
     "node": "18",
-    "npm": "9"
+    "npm": "10"
   },
   "scripts": {
-    "start": "./run.sh",
+    "start": "./start/run.sh",
     "build": "env && echo 'All good, no build required'"
   },
   "repository": {
