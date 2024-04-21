@@ -9,7 +9,7 @@
     "npm": "10"
   },
   "scripts": {
-    "start": "./start/run.sh",
+    "start": "./script/start.sh",
     "build": "env && echo 'All good, no build required'"
   },
   "repository": {
